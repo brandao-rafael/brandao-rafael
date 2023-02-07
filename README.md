@@ -1,7 +1,9 @@
 ### Olá, meu nome é Rafael Brandão 👋
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandao-rafael/)
 [![portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://brandao-rafael.github.io/portifolio/)
-
+<br/>
+rafaelbrandao1992@gmail.com
+<br/>
 [![rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandao-rafael&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias nas quais tenho familiaridade
