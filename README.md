@@ -5,6 +5,7 @@
 rafaelbrandao1992@gmail.com
 <br/>
 [![rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandao-rafael&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandao-rafael&layout=compact&langs_count=7&theme=dark"/>
 
 ### Tecnologias nas quais tenho familiaridade
 
