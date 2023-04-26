@@ -2,6 +2,33 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandao-rafael/)
 [![portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://brandao-rafael.github.io/portifolio/)
 </br>
+<div>
+  <details>
+    <summary>🇺🇸 English</summary>
+
+Welcome to my Github profile!
+
+As a Full-Stack Web Developer, I possess a diverse skill set that includes HTML, CSS, JavaScript, ReactJS, ContextAPI, Hooks, Redux (thunk), Testing (unit, integration, RTL), NodeJS, OOP, SOLID, TypeScript, MySQL, and MongoDB. I am passionate about technology and constantly seek new challenges to expand my knowledge and apply it to practical projects.
+
+I have experience in creating full-stack applications using ReactJS in the frontend and NodeJS with Sequelize and TypeScript in the backend. My dedication to delivering high-quality results ensures that I am well-equipped to tackle any project thrown my way.
+
+Currently, I am completing a computer science module, where I am learning Python, algorithm complexity, and data structures. This knowledge will add more value to my already diverse skill set.
+
+If you are looking for a skilled Full-Stack Web Developer who is committed to delivering quality results, please do not hesitate to check out my Github profile for more information about my work and skills. I am ready to take on new projects and provide efficient solutions.
+
+  </details>
+
+Bem-vindo ao meu perfil no Github!
+
+Como um desenvolvedor Full-Stack, possuo um conjunto diverso de habilidades que inclui HTML, CSS, JavaScript, ReactJS, ContextAPI, Hooks, Redux (thunk), Testing (unit, integration, RTL), NodeJS, OOP, SOLID, TypeScript, MySQL e MongoDB. Sou apaixonado por tecnologia e constantemente busco novos desafios para expandir meu conhecimento e aplicá-lo em projetos práticos.
+
+Tenho experiência em criar aplicações full-stack usando ReactJS no frontend e NodeJS com Sequelize e TypeScript no backend. Minha dedicação em entregar resultados de alta qualidade garante que estou bem equipado para lidar com qualquer projeto que me seja apresentado.
+
+Atualmente, estou concluindo um módulo de ciência da computação, onde estou aprendendo Python, complexidade de algoritmos e estruturas de dados. Esse conhecimento adicionará mais valor ao meu já diversificado conjunto de habilidades.
+
+Se você está procurando um desenvolvedor Full-Stack experiente, comprometido e sempre pronto para aprender, você está no lugar certo. Convido você a explorar meu perfil no Github e saber mais sobre meu trabalho e habilidades. Seja para construir um website do zero ou para auxiliar em um projeto já existente, estou pronto para fornecer soluções eficientes e entregar resultados excepcionais.
+</div>
+
 [![rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandao-rafael&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandao-rafael&layout=compact&langs_count=7&theme=dark"/>
 
