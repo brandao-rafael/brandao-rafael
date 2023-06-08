@@ -12,7 +12,7 @@ As a Full-Stack Web Developer, I possess a diverse skill set that includes HTML,
 
 I have experience in creating full-stack applications using ReactJS in the frontend and NodeJS with Sequelize and TypeScript in the backend. My dedication to delivering high-quality results ensures that I am well-equipped to tackle any project thrown my way.
 
-If you are looking for a skilled Full-Stack Web Developer who is committed to delivering quality results, please do not hesitate to check out my Github profile for more information about my work and skills. I am ready to take on new projects and provide efficient solutions.
+If you are looking for a Full-Stack Web Developer who is committed to delivering quality results, please do not hesitate to check out my Github profile for more information about my work and skills. I am ready to take on new projects and provide efficient solutions.
 
   </details>
 
@@ -22,7 +22,7 @@ Como um desenvolvedor Full-Stack, possuo um conjunto diverso de habilidades que 
 
 Tenho experiência em criar aplicações full-stack usando ReactJS no frontend e NodeJS com Sequelize e TypeScript no backend. Minha dedicação em entregar resultados de alta qualidade garante que estou bem equipado para lidar com qualquer projeto que me seja apresentado.
 
-Se você está procurando um desenvolvedor Full-Stack experiente, comprometido e sempre pronto para aprender, você está no lugar certo. Convido você a explorar meu perfil no Github e saber mais sobre meu trabalho e habilidades. Seja para construir um website do zero ou para auxiliar em um projeto já existente, estou pronto para fornecer soluções eficientes e entregar resultados excepcionais.
+Se você está procurando um desenvolvedor Full-Stack comprometido e sempre pronto para aprender, você está no lugar certo. Convido você a explorar meu perfil no Github e saber mais sobre meu trabalho e habilidades. Seja para construir um website do zero ou para auxiliar em um projeto já existente, estou pronto para fornecer soluções eficientes e entregar resultados excepcionais.
 </div>
 
 [![rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandao-rafael&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
