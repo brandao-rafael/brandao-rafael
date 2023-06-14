@@ -25,8 +25,9 @@ Tenho experiência em criar aplicações full-stack usando ReactJS no frontend e
 Se você está procurando um desenvolvedor Full-Stack comprometido e sempre pronto para aprender, você está no lugar certo. Convido você a explorar meu perfil no Github e saber mais sobre meu trabalho e habilidades. Seja para construir um website do zero ou para auxiliar em um projeto já existente, estou pronto para fornecer soluções eficientes e entregar resultados excepcionais.
 </div>
 
-[![rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandao-rafael&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandao-rafael&layout=compact&langs_count=7&theme=dark"/>
+| GitHub Stats | Top Languages |
+|--------------|---------------|
+| [![rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandao-rafael&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandao-rafael&layout=compact&langs_count=7&theme=dark"/> |
 
 ---
 
