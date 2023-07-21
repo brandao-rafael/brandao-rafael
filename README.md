@@ -8,7 +8,7 @@
 
 Welcome to my Github profile!
 
-As a Full-Stack Web Developer, I possess a diverse skill set that includes HTML, CSS, JavaScript, ReactJS, ContextAPI, Hooks, Redux (thunk), Testing (unit, integration, RTL), NodeJS, OOP, SOLID, TypeScript, MySQL, MongoDB, Python, algorithm complexity, and data structures. I am passionate about technology and constantly seek new challenges to expand my knowledge and apply it to practical projects.
+As a Full-Stack Web Developer, I possess a diverse skill set that includes HTML, CSS, JavaScript, ReactJS, ContextAPI, Hooks, Redux (thunk), Testing (unit, integration, RTL), NodeJS, OOP, SOLID, TypeScript, MySQL, MongoDB, Python, Flutter, algorithm complexity, and data structures. I am passionate about technology and constantly seek new challenges to expand my knowledge and apply it to practical projects.
 
 I have experience in creating full-stack applications using ReactJS in the frontend and NodeJS with Sequelize and TypeScript in the backend. My dedication to delivering high-quality results ensures that I am well-equipped to tackle any project thrown my way.
 
@@ -18,7 +18,7 @@ If you are looking for a Full-Stack Web Developer who is committed to delivering
 
 Bem-vindo ao meu perfil no Github!
 
-Como um desenvolvedor Full-Stack, possuo um conjunto diverso de habilidades que inclui HTML, CSS, JavaScript, ReactJS, ContextAPI, Hooks, Redux (thunk), Testing (unit, integration, RTL), NodeJS, OOP, SOLID, TypeScript, MySQL, MongoDB, Python, complexidade de algoritmos e estruturas de dados. Sou apaixonado por tecnologia e constantemente busco novos desafios para expandir meu conhecimento e aplicá-lo em projetos práticos.
+Como um desenvolvedor Full-Stack, possuo um conjunto diverso de habilidades que inclui HTML, CSS, JavaScript, ReactJS, ContextAPI, Hooks, Redux (thunk), Testing (unit, integration, RTL), NodeJS, OOP, SOLID, TypeScript, MySQL, MongoDB, Python, Flutter, complexidade de algoritmos e estruturas de dados. Sou apaixonado por tecnologia e constantemente busco novos desafios para expandir meu conhecimento e aplicá-lo em projetos práticos.
 
 Tenho experiência em criar aplicações full-stack usando ReactJS no frontend e NodeJS com Sequelize e TypeScript no backend. Minha dedicação em entregar resultados de alta qualidade garante que estou bem equipado para lidar com qualquer projeto que me seja apresentado.
 
